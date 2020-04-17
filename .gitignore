@@ -23,5 +23,12 @@
 hs_err_pid*
 
 # 添加忽略文件
-/MapReduce/.idea/
-/MapReduce/mapreduce.iml
+*/.idea/
+*/*.iml
+*.gitignore
+
+
+
+
+
+
