@@ -1,7 +1,7 @@
 ## 大数据学习
 #### 一、大数据生态圈
 
-![](https://www.zhouwenfang.com/upload/2020/04/coresystem-ae2c92dc87ae46cfa2ecc58f650f3abf.png)
+![]()
 
 #### 二、环境搭建
 
@@ -24,6 +24,9 @@
 4. HBase集群安装部署
 
    - [HBase集群安装部署](https://www.zhouwenfang.com/archives/hbase)
+   - [Phoneix安装部署](https://www.zhouwenfang.com/archives/phoenix )
+   
+    
 
 #### 三、大数据组件学习
 
