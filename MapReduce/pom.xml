@@ -37,16 +37,19 @@
         </dependency>
         <!-- https://mvnrepository.com/artifact/junit/junit -->
         <dependency>
+            <groupId>org.apache.phoenix</groupId>
+            <artifactId>phoenix-core</artifactId>
+            <version>4.14.0-cdh5.14.2</version>
+        </dependency>
+        <dependency>
             <groupId>junit</groupId>
             <artifactId>junit</artifactId>
-            <version>4.11</version>
-            <scope>test</scope>
+            <version>4.12</version>
         </dependency>
         <dependency>
             <groupId>org.testng</groupId>
             <artifactId>testng</artifactId>
-            <version>RELEASE</version>
-            <scope>test</scope>
+            <version>6.14.3</version>
         </dependency>
     </dependencies>
     <build>
