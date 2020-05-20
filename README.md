@@ -28,3 +28,5 @@
 
 1. Hadoop组件学习
    - [HDFS]( https://www.zhouwenfang.com/archives/hdfs )
+   - [MapReduce]( https://www.zhouwenfang.com/archives/mapreduce  )
+
