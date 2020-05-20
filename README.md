@@ -1,9 +1,5 @@
 ## 大数据学习
-#### 一、大数据生态圈
-
-![]()
-
-#### 二、环境搭建
+#### 一、环境搭建
 
 1. Hadoop集群搭建
 
@@ -30,4 +26,5 @@
 
 #### 三、大数据组件学习
 
-#### 
+1. Hadoop组件学习
+   - [HDFS](https://www.zhouwenfang.com/archives/phoenix )
