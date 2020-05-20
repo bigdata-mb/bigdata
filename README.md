@@ -24,7 +24,7 @@
    
     
 
-#### 三、大数据组件学习
+#### 二、大数据组件学习
 
 1. Hadoop组件学习
-   - [HDFS](https://www.zhouwenfang.com/archives/phoenix )
+   - [HDFS]( https://www.zhouwenfang.com/archives/hdfs )
