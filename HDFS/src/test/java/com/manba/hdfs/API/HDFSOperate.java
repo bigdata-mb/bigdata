@@ -1,4 +1,4 @@
-package com.kkb.hdfs;
+package com.manba.hdfs.API;
 
 import org.apache.commons.io.IOUtils;
 import org.apache.hadoop.conf.Configuration;
@@ -80,7 +80,7 @@ public class HDFSOperate {
         FileSystem fs = FileSystem.get(new URI("hdfs://node01:8020"), configuration);
 
         // 2 获取文件详情
-        RemoteIterator<LocatedFileStatus> listFiles = fs.listFiles(new Path("/kaikeba/dir1/core3.xml"), true);
+        RemoteIterator<LocatedFileStatus> listFiles = fs.listFiles(new Path("/dir1/core3.xml"), true);
         while(listFiles.hasNext()){
             LocatedFileStatus status = listFiles.next();
             // 输出详情
